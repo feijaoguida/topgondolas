@@ -112,3 +112,10 @@
   font-weight: 700;
   margin-bottom: 15px;
 }
+
+.produto {
+  background-image: url("../img/topgondolas1.png");
+  width: 100%;
+  height: 190px;
+  background-size: contain;
+}
