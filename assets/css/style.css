@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+  color: var(--colorfont);
+}
+
+:root {
+  --bgcolor: #ebebeb;
+  --coloryellow: #ffdd8a;
+  --colorred: #ff0000;
+  --colorreddark: #c10202;
+}
+
+.bgnav {
+  background-color: var(--colorreddark);
+}
