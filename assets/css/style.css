@@ -29,6 +29,13 @@ body {
   size: 0.8em !important;
 }
 
+.text-logo {
+  color: #ffffff !important;
+  font-family: Roboto, sans-serif !important;
+  font-size: 1.5em !important;
+  font-weight: 800;
+}
+
 .dropdown-item {
   color: #000 !important;
 }
